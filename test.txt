@@ -1,7 +1,0 @@
-This is a test file.
-Edited in test01 branch1.
-Change in dev branch.
-Change in master.
-Another change in dev branch.
-Add line in dev after tracking.
-Add line in master.
