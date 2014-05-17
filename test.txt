@@ -1,3 +1,2 @@
 Add line in master.
 Insert line in dev.
-Add a line that will be reverted.
